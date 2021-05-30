@@ -3,7 +3,7 @@ name = "kanji_to_kana"
 license = "MIT"
 description = "Convert Kana into Kanji, Kanji into Kana"
 repository = "https://gitlab.com/syobon-tech/kanji_to_kana"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["syobon-tech <syobon_tech@outlook.com>"]
 edition = "2018"
 
